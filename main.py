@@ -77,7 +77,7 @@ def concluir_tarefa(indice):
         - Caso contrário, altere a chave "concluida" da tarefa para True
           e exiba uma mensagem confirmando a conclusão.
 
-    Lembre-se: o índice exibido para o usuário começa em 1, mas listas em
+    Lembre-se: o índice exibido para o usuário começa em 1, mas listas eem
     Python começam em 0. Você vai precisar ajustar isso (indice - 1).
     """
     # TODO (Aula 2): valide o índice recebido
